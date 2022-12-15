@@ -1,0 +1,7 @@
+Opsi pembelajaran 1
+1. kita pelajari tentang git
+    *Git Branch
+2. selanjutnya, kita pelajari tentang HTML
+3. setelah mempelajari HTML kita akan beralih ke CSS
+4. untuk membuat website kita menjadi interaktif, kita akan mempelajari javascript
+5. untuk membantu memudahkan kita dalam development website, kita akan mempelajari framework javascript
