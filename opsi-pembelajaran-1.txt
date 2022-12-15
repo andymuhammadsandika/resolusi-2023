@@ -5,3 +5,4 @@ Opsi pembelajaran 1
 3. setelah mempelajari HTML kita akan beralih ke CSS
 4. untuk membuat website kita menjadi interaktif, kita akan mempelajari javascript
 5. untuk membantu memudahkan kita dalam development website, kita akan mempelajari framework javascript
+6. mencoba membuat website
