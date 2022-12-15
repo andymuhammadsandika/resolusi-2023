@@ -1,4 +1,4 @@
-Opsi pembelajaran 1
+Opsi pembelajaran
 1. kita pelajari tentang git
     *Git Branch
 2. selanjutnya, kita pelajari tentang HTML
