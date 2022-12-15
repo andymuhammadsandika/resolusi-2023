@@ -7,4 +7,5 @@ Opsi pembelajaran
 5. untuk membantu memudahkan kita dalam development website, kita akan mempelajari framework javascript
 6. mencoba membuat website
     *Website Portfolio
+    *Website Landing Page
     *Website Company Profile
