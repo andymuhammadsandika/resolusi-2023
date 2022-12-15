@@ -6,3 +6,5 @@ Opsi pembelajaran
 4. untuk membuat website kita menjadi interaktif, kita akan mempelajari javascript
 5. untuk membantu memudahkan kita dalam development website, kita akan mempelajari framework javascript
 6. mencoba membuat website
+    *Website Portfolio
+    *Website Company Profile
